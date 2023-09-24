@@ -1,0 +1,28 @@
+.newnav{
+float: none;
+}
+section{
+    background-color: green;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.btnnav{
+    margin-top: 10px;
+}
+.carddiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.secthree{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    
+   
+}
+.secfour{
+    display: flex;
+    justify-content: space-evenly;
+}
